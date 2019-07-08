@@ -24,7 +24,6 @@ def print_playlist(playlist_name):
     for song in songList: print(song)
     return 
 
-
 # Construct playlists from .csv files in Playlists folder
 playlists = {} # Dictionary of {'PlaylistName':[Songs in playlist]}
 for playlist_name in ['All_Songs']: # Add names of playlists you want to import to the list
