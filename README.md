@@ -2,8 +2,8 @@
 ## Scripts to help learn the programming language python
 ### Three Target Learning Sections
 [1] Basics<br>
-[2] Functional Programming<br>
-[3] Object Oriented Programming <br>
+[2] Functions<br>
+[3] Object Oriented <br>
 ### Resources: 
 + [python Homepage](https://www.python.org/)
 + [CodeBasics](http://codebasicshub.com/tutorial/python/install-python-on-windows-2)
